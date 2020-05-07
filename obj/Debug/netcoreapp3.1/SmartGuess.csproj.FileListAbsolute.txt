@@ -1,0 +1,13 @@
+C:\Users\Shawlaa\Desktop\SmartGuess\bin\Debug\netcoreapp3.1\SmartGuess.exe
+C:\Users\Shawlaa\Desktop\SmartGuess\bin\Debug\netcoreapp3.1\SmartGuess.deps.json
+C:\Users\Shawlaa\Desktop\SmartGuess\bin\Debug\netcoreapp3.1\SmartGuess.runtimeconfig.json
+C:\Users\Shawlaa\Desktop\SmartGuess\bin\Debug\netcoreapp3.1\SmartGuess.runtimeconfig.dev.json
+C:\Users\Shawlaa\Desktop\SmartGuess\bin\Debug\netcoreapp3.1\SmartGuess.dll
+C:\Users\Shawlaa\Desktop\SmartGuess\bin\Debug\netcoreapp3.1\SmartGuess.pdb
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\SmartGuess.csprojAssemblyReference.cache
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\SmartGuess.csproj.CoreCompileInputs.cache
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\SmartGuess.AssemblyInfoInputs.cache
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\SmartGuess.AssemblyInfo.cs
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\SmartGuess.dll
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\SmartGuess.pdb
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\SmartGuess.genruntimeconfig.cache
