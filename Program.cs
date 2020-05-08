@@ -25,8 +25,9 @@ namespace SmartGuess
                    Console.WriteLine("Square root of {0} is: {1}", Number, SqrtNumber);
                 Console.ReadLine();
                }
-
+             
                
+                     
         }
         
     }
