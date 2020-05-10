@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shawlaa\\Desktop\\SmartGuess\\SmartGuess.csproj": {}
+    "C:\\Users\\Shawlaa\\Desktop\\Smart\\Smart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shawlaa\\Desktop\\SmartGuess\\SmartGuess.csproj": {
+    "C:\\Users\\Shawlaa\\Desktop\\Smart\\Smart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shawlaa\\Desktop\\SmartGuess\\SmartGuess.csproj",
-        "projectName": "SmartGuess",
-        "projectPath": "C:\\Users\\Shawlaa\\Desktop\\SmartGuess\\SmartGuess.csproj",
+        "projectUniqueName": "C:\\Users\\Shawlaa\\Desktop\\Smart\\Smart.csproj",
+        "projectName": "Smart",
+        "projectPath": "C:\\Users\\Shawlaa\\Desktop\\Smart\\Smart.csproj",
         "packagesPath": "C:\\Users\\Shawlaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shawlaa\\Desktop\\SmartGuess\\obj\\",
+        "outputPath": "C:\\Users\\Shawlaa\\Desktop\\Smart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shawlaa\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,6 +1,6 @@
 using System;
 
-namespace SmartGGuess.Models
+namespace Smart.Models
 {
     public class ErrorViewModel
     {

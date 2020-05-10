@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Shawlaa\\Desktop\\SmartGuess\\SmartGGuess.csproj",
+  "FilePath": "c:\\Users\\Shawlaa\\Desktop\\SmartGuess\\SmartGuess.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20518,7 +20518,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "SmartGGuess",
+  "RootNamespace": "SmartGuess",
   "Documents": [
     {
       "FilePath": "c:\\Users\\Shawlaa\\Desktop\\SmartGuess\\Views\\Shared\\_Layout.cshtml",

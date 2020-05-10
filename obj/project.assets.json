@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shawlaa\\Desktop\\SmartGGuess\\SmartGGuess.csproj",
-      "projectName": "SmartGGuess",
-      "projectPath": "C:\\Users\\Shawlaa\\Desktop\\SmartGGuess\\SmartGGuess.csproj",
+      "projectUniqueName": "C:\\Users\\Shawlaa\\Desktop\\SmartGuess\\SmartGuess.csproj",
+      "projectName": "SmartGuess",
+      "projectPath": "C:\\Users\\Shawlaa\\Desktop\\SmartGuess\\SmartGuess.csproj",
       "packagesPath": "C:\\Users\\Shawlaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shawlaa\\Desktop\\SmartGGuess\\obj\\",
+      "outputPath": "C:\\Users\\Shawlaa\\Desktop\\SmartGuess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shawlaa\\AppData\\Roaming\\NuGet\\NuGet.Config"
