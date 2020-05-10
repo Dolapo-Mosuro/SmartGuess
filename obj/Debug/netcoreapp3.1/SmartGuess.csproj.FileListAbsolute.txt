@@ -35,3 +35,6 @@ C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\SmartGuess.Views.pdb
 C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\staticwebassets\SmartGuess.StaticWebAssets.Manifest.cache
 C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\staticwebassets\SmartGuess.StaticWebAssets.xml
 C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\SmartGuess.csproj.CopyComplete
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewPage.cshtml.g.cs
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy copy.cshtml.g.cs
+C:\Users\Shawlaa\Desktop\SmartGuess\obj\Debug\netcoreapp3.1\Razor\Views\SmartGuess\SquareRoot.cshtml.g.cs

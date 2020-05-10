@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Smart.Models;
 
-namespace Smart.Controllers
+namespace SmartGuess.Controllers
 {
     public class HomeController : Controller
     {
@@ -19,6 +19,11 @@ namespace Smart.Controllers
         }
 
         public IActionResult Index()
+        {
+            return View();
+        }
+    
+        public IActionResult NewPage()
         {
             return View();
         }
