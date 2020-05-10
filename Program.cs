@@ -1,34 +1,26 @@
-﻿using System;
-using System.Text;
-using System.Collections;
-using System.Data;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 
-namespace SmartGuess
+namespace SmartGGuess
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Enter a Number : ");
-                int Number = Convert.ToInt16(Console.ReadLine());
-                double SqrtNumber = Math.Sqrt(Number);
-                Console.WriteLine("Square root of {0} is: {1}", Number, SqrtNumber);
-                Console.ReadLine();
-
-
-               if (Number <  0)
-               {
-                  Console.WriteLine ("Error, Number should be more than zero");
-               }
-               else
-               {
-                   Console.WriteLine("Square root of {0} is: {1}", Number, SqrtNumber);
-                Console.ReadLine();
-               }
-             
-               
-                     
+            CreateHostBuilder(args).Build().Run();
         }
-        
+
+        public static IHostBuilder CreateHostBuilder(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                });
     }
 }
