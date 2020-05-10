@@ -1,7 +1,26 @@
 @{
     ViewData["Title"] = "SquareRoot Page";
 }
-
 <div class="text-center">
     <h1 class="display-4">Wecome to the SmartGuess Game</h1>
+</div>
+
+@{
+    if(ViewBag.Result != null)
+    {
+        <div>
+            <p>The SquareRoot of your numbers are: @ViewBag.Result</p>
+        </div>
+    }
+}
+
+<div>
+    <form asp-controller="SmartGuess" asp-action="SquareRoot" method="POST">
+
+        <input type= "number" placeholder="First Number" name="firstNumber"/>
+        <input type= "number" placeholder="Second Number" name="secondNumber"/>
+        <button type= "submit">Submit</button>
+
+    </form>
+    
 </div>
