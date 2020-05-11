@@ -13,10 +13,23 @@ namespace SmartGuess.Controllers
       public ActionResult SquareRoot(int firstNumber, int secondNumber)
 
       {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
           if (firstNumber == null || secondNumber == null)
           {
               ViewBag.error = "show error";
           }
+=======
+=======
+>>>>>>> Stashed changes
+         // if (firstNumber == null || secondNumber == null)
+         // {
+          //    ViewBag.error = "show error";
+        //  }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 
         if (firstNumber > secondNumber)
                {
@@ -25,10 +38,24 @@ namespace SmartGuess.Controllers
 
                }
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
         if (firstNumber > secondNumber)
                {
 
                 ViewBag.Result("The first number was greater than the second number");
+=======
+        if (firstNumber < secondNumber)
+               {
+
+                ViewBag.Result("The first number was lesser than the second number");
+>>>>>>> Stashed changes
+=======
+        if (firstNumber < secondNumber)
+               {
+
+                ViewBag.Result("The first number was lesser than the second number");
+>>>>>>> Stashed changes
 
                }       
 
