@@ -11,10 +11,30 @@ namespace SmartGuess.Controllers
       }
       [HttpPost]
       public ActionResult SquareRoot(int firstNumber, int secondNumber)
+
       {
+          if (firstNumber == null || secondNumber == null)
+          {
+              ViewBag.error = "show error";
+          }
+
+        if (firstNumber > secondNumber)
+               {
+
+                ViewBag.Result("The first number was greater than the second number");
+
+               }
+
+        if (firstNumber > secondNumber)
+               {
+
+                ViewBag.Result("The first number was greater than the second number");
+
+               }       
+
           int numberOne = firstNumber;
           int numberTwo = secondNumber;
-          int result1 = (int)Math.Sqrt(numberOne);
+          int result1 = (int)Math.Sqrt(firstNumber);
           int result2 = (int)Math.Sqrt(secondNumber);
           ViewBag.Result = result1;
           ViewBag.Result = result2;
