@@ -20541,13 +20541,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Shawlaa\\Desktop\\SmartGuess\\Views\\Guess\\SquareRoot.cshtml",
-      "TargetPath": "Views\\Guess\\SquareRoot.cshtml",
+      "FilePath": "c:\\Users\\Shawlaa\\Desktop\\SmartGuess\\Views\\Home\\Privacy copy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy copy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Shawlaa\\Desktop\\SmartGuess\\Views\\Home\\Privacy copy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy copy.cshtml",
+      "FilePath": "c:\\Users\\Shawlaa\\Desktop\\SmartGuess\\Views\\SmartGuess\\SquareRoot.cshtml",
+      "TargetPath": "Views\\SmartGuess\\SquareRoot.cshtml",
       "FileKind": "mvc"
     },
     {
